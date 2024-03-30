@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+sqlalchemy==1.4.48
+xlrd
+mysql-connector
+pymysql
+openpyxl
+meteostat
+statsmodels
+missingno
+mlflow
+
