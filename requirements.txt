@@ -1,5 +1,5 @@
 numpy
-pandas
+pandas==1.5.3
 matplotlib
 scikit-learn
 sqlalchemy==1.4.48
@@ -10,5 +10,5 @@ openpyxl
 meteostat
 statsmodels
 missingno
-mlflow
-
+mlflow==2.10.2
+requests
